@@ -5,7 +5,7 @@ Now, I challenged myself once more and decided to make another game. 408 lines o
 
 # Info
 It took me ~2 days to finish it, but those 2 days were - definitely - worth it! It ended up being a dense learning session, not just a personal challenge/project.
-After I released the first version on [LinkedIn](https://www.linkedin.com/in/yahyatkofficial/), I got lots of feedback and spend another 2 weeks improving the gameplay and adding more features to the game till it became what it is today.
+After I released the first version on [LinkedIn](https://www.linkedin.com/in/yahyatk/), I got lots of feedback and spend another 2 weeks improving the gameplay and adding more features to the game till it became what it is today.
 
 To get some insight on the progression of the game, this [article](https://www.linkedin.com/pulse/follow-up-2048-my-first-c-game-yahya-t-khedr/) was written when the second version was released.
 
